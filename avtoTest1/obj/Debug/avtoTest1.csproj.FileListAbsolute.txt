@@ -1,0 +1,13 @@
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\obj\Debug\avtoTest1.csprojResolveAssemblyReference.cache
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\avtoTest1.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\avtoTest1.pdb
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\nunit.framework.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\WebDriver.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\WebDriver.Support.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\nunit.framework.xml
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\WebDriver.xml
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\WebDriver.Support.xml
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\obj\Debug\avtoTest1.dll
+C:\Users\Гузель\Documents\Visual Studio 2015\Projects\avtoTest1\avtoTest1\obj\Debug\avtoTest1.pdb
